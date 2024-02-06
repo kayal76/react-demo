@@ -27,7 +27,7 @@ function  CardComp(props)
       className="mb-2 text-muted"
       tag="h6"
     >
-     price: {props.price}
+     rs: {props.price}
     </CardSubtitle>
     <CardText>
       Some quick example text to build on the card title and make up the bulk of the card‘s content.
